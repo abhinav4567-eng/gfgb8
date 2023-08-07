@@ -21,6 +21,10 @@ public class MyCalculator {
 	{
 		return a/b;
 	}
+	public void display()
+	{
+	System.out.println("display functions");
+	}
 	
 	public static void main(String[] args) {
 		
