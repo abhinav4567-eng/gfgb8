@@ -17,7 +17,7 @@ public class TestClassCalculator {
 	
 	@Test
 	public void test_sub() {
-		assertEquals(5, ob.sub(10, 5));
+		assertEquals(6, ob.sub(30, 5));
 	}
 	
 	@Test
