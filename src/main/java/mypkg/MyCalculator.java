@@ -24,7 +24,7 @@ public class MyCalculator {
 	
 	public void display()
 	{
-	System.out.println("display functions");
+	System.out.println("display functions1");
 	}
 	
 	public void display2()
